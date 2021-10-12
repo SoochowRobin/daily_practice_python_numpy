@@ -36,3 +36,4 @@ feature_label_counts['e']['T'] += 1
 feature_label_counts['f']['T'] += 1
 print(feature_label_counts)
 print(feature_label_counts['e']['G']) # because not appear, so return 0
+print(feature_label_counts['d']['t'])
